@@ -49,7 +49,7 @@ Monitoring system project using JavaScript.
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/yousef-awwad-13078a310
+- LinkedIn: https://www.linkedin.com/in/yousef-awwad/
 - GitHub: https://github.com/awwady666-tech
 
 ⭐ Always learning, building and solving problems.
