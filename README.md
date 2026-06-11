@@ -34,8 +34,8 @@
 ### 🛒 Shopty E-Commerce
 Modern e-commerce website built with React and APIs.
 
-### 📱 Mobile Phone Store
-Responsive frontend application for showcasing products.
+### 🕌 Prayer Times App
+Responsive frontend application for displaying daily prayer times with a clean and user-friendly interface.
 
 ### 🌐 Devo Social Media Website
 Social media platform UI built using HTML, CSS and JavaScript.
