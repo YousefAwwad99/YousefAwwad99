@@ -45,11 +45,11 @@ Monitoring system project using JavaScript.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=awwady666-tech&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YousefAwwad99&show_icons=true)
 
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/yousef-awwad/
-- GitHub: https://github.com/awwady666-tech
+- GitHub: https://github.com/YousefAwwad99
 
 ⭐ Always learning, building and solving problems.
